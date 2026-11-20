@@ -1,5 +1,6 @@
 # 💡 AI Grant & Funding Finder for Startups
-### Powered by IBM Granite AI &nbsp;|&nbsp; Problem Statement #18
+### Powered by IBM Granite AI &nbsp;|&nbsp; Problem Statement
+https://aigrantfundingfinder-7jhbubnvtwmnm4dwohj2ot.streamlit.app/
 
 > **Technology mandate met:** IBM Cloud Lite + IBM Granite (`ibm/granite-13b-instruct-v2`) via `ibm-watsonx-ai` SDK
 
